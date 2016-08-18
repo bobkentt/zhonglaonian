@@ -1,8 +1,12 @@
-# StickerCamera
+# zln-app
 
 This is an Android application with camera,picture cropping,collage sticking and tagging.
 
+This project is based on https://github.com/Skykai521/StickerCamera, add some new functions.
+
 这是一款集成了相机,图片裁剪,给图片贴贴图打标签的APP。
+
+这个项目是基于开源相机应用StickerCamera，项目地址https://github.com/Skykai521/StickerCamera，在此基础上添加新的功能。
 
 # Feature
 
@@ -57,14 +61,15 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 - [ouyezi](https://github.com/ouyezi)
 - [Skykai521](https://github.com/Skykai521)
+- [bobkentt](https://github.com/bobkentt)
 
 # Apk Demo
 Change screenshot/StickerCamera.zip to StickerCamera.apk
 
 # Contact Me
 
-- Weibo: http://weibo.com/2030683111
-- Email: 1132234509@qq.com
+- Weibo: http://weibo.com/u/3484838205
+- Email: 2285824449@qq.com
 
 # License
 ```
